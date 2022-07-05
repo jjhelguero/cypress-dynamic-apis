@@ -15,6 +15,6 @@
   },
   "devDependencies": {
     "cy-spok": "^1.5.2",
-    "cypress": "^9.7.0"
+    "cypress": "9.7.0"
   }
 }
