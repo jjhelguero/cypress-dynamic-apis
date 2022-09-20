@@ -11,10 +11,10 @@
   "author": "jjhelguero",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "4.18.1"
   },
   "devDependencies": {
-    "cy-spok": "^1.5.2",
-    "cypress": "10.4.0"
+    "cy-spok": "1.5.2",
+    "cypress": "9.7.0"
   }
 }
