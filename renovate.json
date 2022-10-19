@@ -6,7 +6,7 @@
     {
       "packagePatterns": ["*"],
       "excludePackagePatterns": [
-        "cypress"
+        "cy-spok"
       ],
       "enabled": false
     }
